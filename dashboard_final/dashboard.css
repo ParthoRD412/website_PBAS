@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+aside {
+    background-color: grey;
+    float: left;
+}
+
+.nav {
+    width: fit-content;
+}
